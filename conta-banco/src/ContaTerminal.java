@@ -13,7 +13,7 @@ public class ContaTerminal {
             //Na linha abaixo foram criadas as variáveis agência, saldo e numero da conta recebendo assim os valores recebidos pelo usuário.
            // Usei a criatividade e fiz algumas alterações como o número da agencia já inserido em uma variável e criei uma "senha" para criar a conta.
             
-           senha = senha + 0;
+            senha = senha + 0;
             String agencia = ("067-8");
             double saldo = 237.48;
             int numeroConta = 1021;
